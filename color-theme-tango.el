@@ -5,6 +5,7 @@
 ;; Copyright (C) 2010 danranx@gmail.com
 
 ;; Author: danranx@gmail.com
+;; Adapted-By: Yesudeep Mangalapilly
 ;; Keywords: tango color theme
 ;; URL: http://github.com/gorakhargosh/color-themes-collection
 ;; Version: 0.0.2
