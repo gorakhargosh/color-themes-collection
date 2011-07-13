@@ -58,7 +58,7 @@
      )))
 
 
-(colod-theme-dpaste)
+(color-theme-dpaste)
 
 (provide 'color-theme-dpaste)
 
